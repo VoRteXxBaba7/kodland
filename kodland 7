@@ -1,0 +1,13 @@
+# Arkadaşlarınızı şaşırtın
+my_words = ["Hi!", "Python Pro", "Kodland"] 
+print(my_words[1])
+
+name = input()
+print("Hi ", name)
+
+import random
+emojis = ["^^", "0_o", ":)", "¯\\_(ツ)_/¯", "(￢_￢)"]
+print(random.choice(emojis))
+
+hakkimdaki_gercekler=["tarçın","tavuk pilav","araba projem"]
+print(random.choice(hakkimdaki_gercekler))
